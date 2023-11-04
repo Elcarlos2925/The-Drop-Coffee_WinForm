@@ -1,0 +1,243 @@
+C:\Users\Telnor\Desktop\TRABAJOS\Programación II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+C:\Users\Telnor\Desktop\TRABAJOS\Programación II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\TRABAJOS\Programación II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\TRABAJOS\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+C:\Users\Telnor\Desktop\TRABAJOS\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.btnInfoAmericano.resources
+C:\Users\Telnor\Desktop\TRABAJOS\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+C:\Users\Telnor\Desktop\TRABAJOS\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+C:\Users\Telnor\Desktop\TRABAJOS\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Telnor\Desktop\TRABAJOS\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\TRABAJOS\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+F:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+F:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+F:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.btnInfoAmericano.resources
+F:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+F:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+F:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+F:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+F:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+F:\Programación II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+F:\Programación II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+F:\Programación II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+I:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+I:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+I:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+I:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+I:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+I:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+I:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+I:\Programación II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+I:\Programación II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+I:\Programación II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+I:\Programación II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Menú.resources
+C:\Users\Telnor\Desktop\Programación II\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+C:\Users\Telnor\Desktop\Programación II\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Telnor\Desktop\Programación II\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Menú.resources
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\prueba\2\Programaci+¦n II\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Menú.resources
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\Nueva carpeta\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Menú.resources
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.3\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Menú.resources
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Menú.resources
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\MySql.Data.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.Buffers.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.IO.Pipelines.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.Memory.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.pdb
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\MySql.Data.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.Buffers.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.IO.Pipelines.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.Memory.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CopyComplete
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.Login_Empleados.resources
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\cl154\Downloads\Drop Coffee 0.1.4a\Drop Coffee 0.1.4\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.RegistroEmpleados.resources
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\MySql.Data.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.Buffers.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.Memory.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.pdb
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\MySql.Data.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.Buffers.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.Memory.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Menú.resources
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.RegistroEmpleados.resources
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CopyComplete
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.Login_Admin.resources
+C:\Users\Telnor\Desktop\Programación II\Drop Coffee 0.1.7\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.Menú_Principal.resources
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\BouncyCastle.Crypto.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Hash.xxHash.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\MySql.Data.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\RJCodeAdvance.RJControls.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Buffers.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.IO.Pipelines.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Memory.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Numerics.Vectors.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\BouncyCastle.Crypto.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.pdb
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Hash.xxHash.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\MySql.Data.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Buffers.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.IO.Pipelines.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Memory.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Numerics.Vectors.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.Login_Admin.resources
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.Menú_Principal.resources
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Menú.resources
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.RegistroEmpleados.resources
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CopyComplete
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+F:\Archivos\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe.config
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.exe
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\TheDropCoffee.pdb
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\BouncyCastle.Crypto.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Hash.xxHash.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\MySql.Data.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\RJCodeAdvance.RJControls.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Buffers.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.IO.Pipelines.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Memory.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Numerics.Vectors.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\BouncyCastle.Crypto.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.pdb
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\Google.Protobuf.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\K4os.Hash.xxHash.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\MySql.Data.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Buffers.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.IO.Pipelines.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Memory.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Numerics.Vectors.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.AssemblyReference.cache
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.SuggestedBindingRedirects.cache
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.Login_Admin.resources
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.Menú_Principal.resources
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Menú.resources
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Formas.RegistroEmpleados.resources
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.Properties.Resources.resources
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.GenerateResource.cache
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CoreCompileInputs.cache
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.csproj.CopyComplete
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.exe
+F:\The Drop Coffee\TheDropCoffee\TheDropCoffee\obj\Debug\TheDropCoffee.pdb
